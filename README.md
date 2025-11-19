@@ -52,8 +52,8 @@ README.md
 ---
 
 ## ▶️ How to Run
-```bash
-java Main
+
+java Main -> run file
 
 
 ---
