@@ -3,7 +3,6 @@
 
 # 📌 ** Probability & Permutations Project (Java)**
 
-```md
 # Probability & Permutations Calculator – Java
 
 A Java mathematics tool designed to calculate probability, permutations, factorials, combinations, and related probability operations.
